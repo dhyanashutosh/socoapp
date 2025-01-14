@@ -23,4 +23,3 @@ export function useThemeColor(
 
 
 
-// this is the react native native native project -projecr
