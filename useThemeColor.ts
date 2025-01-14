@@ -19,3 +19,8 @@ export function useThemeColor(
     return Colors[theme][colorName];
   }
 }
+
+
+
+
+// this is the react native native native project -projecr
